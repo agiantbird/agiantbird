@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @agiantbird
 - 👀 I’m interested in music, writing, programming, cooking
-- 🌱 I’m currently learning ruby/rails, java, and javascript
+- 🌲 I have some professional experience in Ruby/Rails and Java
+- 🌱 I’m currently learning python and C++
 - 💞️ I’m looking to collaborate on beginner friendly projects about veganism, sustainable agriculture, and renewable energy
 
 <!---
