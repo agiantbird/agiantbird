@@ -2,7 +2,6 @@
 - 👀 I’m interested in music, writing, programming, cooking
 - 🌱 I’m currently learning ruby/rails, java, and javascript
 - 💞️ I’m looking to collaborate on beginner friendly projects about veganism, sustainable agriculture, and renewable energy
-- 📫 How to reach me: rhoyt10@gmail.com
 
 <!---
 agiantbird/agiantbird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
